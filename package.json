@@ -1,0 +1,12 @@
+{
+  "name": "@sslt/unify.css",
+  "version": "1.0.0",
+  "description": "A modern unify to CSS resets",
+  "main": "unify.css",
+  "style": "unify.css",
+  "files": [
+    "unify.css"
+  ],
+  "author": "hippo",
+  "license": "MIT"
+}
